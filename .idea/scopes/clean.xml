@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="clean" pattern="!file[slider]:*&amp;&amp;!file:vite.config.ts&amp;&amp;!file:tsconfig.node.json&amp;&amp;!file:tsconfig.json&amp;&amp;!file:styles.d.ts&amp;&amp;!file:README.md&amp;&amp;!file:package.json&amp;&amp;!file:package-lock.json&amp;&amp;!file:index.html&amp;&amp;!file:.stylelintrc&amp;&amp;!file:.prettierrc.js&amp;&amp;!file:.prettierignore&amp;&amp;!file:.gitignore&amp;&amp;!file:.eslintrc.js&amp;&amp;!file:.eslintignore&amp;&amp;!file[slider]:.idea/*" />
+</component>
